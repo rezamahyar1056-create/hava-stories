@@ -1,22 +1,27 @@
 {
-  "re": {
-    "pages": [
-      "stories/re/2f4dbeedf0854d4297071a46a8f17227.png"
-    ]
+  "folders": {
+    "mar": []
   },
-  "ma": {
-    "pages": [
-      "stories/ma/ef0502a57eae4823940ccbea8489919d.png"
-    ]
-  },
-  "jar": {
-    "pages": [
-      "stories/jar/592d7285f18b4571a2ea575deb4a5f2b.jpg"
-    ]
-  },
-  "lal": {
-    "pages": [
-      "stories/lal/8f11ccd3eb3d44bca6410596a46cf7f9.jpg"
-    ]
+  "stories": {
+    "re": {
+      "pages": [
+        "stories/re/2f4dbeedf0854d4297071a46a8f17227.png"
+      ]
+    },
+    "ma": {
+      "pages": [
+        "stories/ma/ef0502a57eae4823940ccbea8489919d.png"
+      ]
+    },
+    "jar": {
+      "pages": [
+        "stories/jar/592d7285f18b4571a2ea575deb4a5f2b.jpg"
+      ]
+    },
+    "lal": {
+      "pages": [
+        "stories/lal/8f11ccd3eb3d44bca6410596a46cf7f9.jpg"
+      ]
+    }
   }
 }
