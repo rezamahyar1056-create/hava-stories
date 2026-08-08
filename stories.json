@@ -1,6 +1,8 @@
 {
   "folders": {
-    "mar": []
+    "mar": [
+      "reca"
+    ]
   },
   "stories": {
     "re": {
@@ -22,6 +24,12 @@
       "pages": [
         "stories/lal/8f11ccd3eb3d44bca6410596a46cf7f9.jpg"
       ]
+    },
+    "reca": {
+      "pages": [
+        "stories/reca/92b355919fe344e4870a2417968d2121.png"
+      ],
+      "folder": "mar"
     }
   }
 }
