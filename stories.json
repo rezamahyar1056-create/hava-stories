@@ -1,20 +1,12 @@
 {
   "folders": {
-    "mar": [
-      "reca"
-    ]
+    "mar": []
   },
   "stories": {
     "jar": {
       "pages": [
         "stories/jar/592d7285f18b4571a2ea575deb4a5f2b.jpg"
       ]
-    },
-    "reca": {
-      "pages": [
-        "stories/reca/92b355919fe344e4870a2417968d2121.png"
-      ],
-      "folder": "mar"
     }
   }
 }
