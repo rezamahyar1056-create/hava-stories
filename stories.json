@@ -3,7 +3,8 @@
     "mar": [],
     "شب یکم": [
       "حکایت نخست",
-      "جام جهان بین"
+      "جام جهان بین",
+      "سفر آفرینش"
     ]
   },
   "stories": {
@@ -34,6 +35,30 @@
         "stories/جام جهان بین/3989d26e17f24a92b2bd3cfe964d0eca.jpg"
       ],
       "folder": "شب یکم"
+    },
+    "سفر آفرینش": {
+      "pages": [
+        "stories/سفر آفرینش/c29662f0def94390b1a12decc6ba090a.jpg",
+        "stories/سفر آفرینش/06f3d33d794149b8bd052764c84c0ad5.jpg",
+        "stories/سفر آفرینش/8a360e5de07a4dafa6756f5234df77a3.jpg",
+        "stories/سفر آفرینش/c9748402afe442a0b4a7755c24f701bd.jpg",
+        "stories/سفر آفرینش/3b3d7d23e5194b3398434646fbd2237c.jpg",
+        "stories/سفر آفرینش/fd9d8c74b5b54b5c88d679d38056add2.jpg",
+        "stories/سفر آفرینش/88c69d1954d34f3ea1737ce7ff38c44e.jpg",
+        "stories/سفر آفرینش/5ed0b744959a489687b7eb624c8820cb.jpg",
+        "stories/سفر آفرینش/f073d79d107c4f67adcd8f1f0272ed8b.jpg",
+        "stories/سفر آفرینش/4976660e63fa47908ebdda75d9fde7ff.jpg",
+        "stories/سفر آفرینش/652c063bbaf14817ab5223af3cb16d22.jpg",
+        "stories/سفر آفرینش/51c086f3583448d8a4595ca4bcb15c86.jpg",
+        "stories/سفر آفرینش/2b3d1cf537c243f18248e2139135a08d.jpg",
+        "stories/سفر آفرینش/719c25fd61dd4ddebd26ec6d1e443059.jpg",
+        "stories/سفر آفرینش/8f2b900aedf24aa9a8945bf1e93853f3.jpg",
+        "stories/سفر آفرینش/39c317068962402cbe677f88bf1ed034.jpg",
+        "stories/سفر آفرینش/8cf60f39715a458e8f3b1dc81e177b69.jpg",
+        "stories/سفر آفرینش/5731756f1fa84df9b815da0d43fc9f06.jpg"
+      ],
+      "folder": "شب یکم",
+      "music": "stories/سفر آفرینش/music.mp3"
     }
   }
 }
