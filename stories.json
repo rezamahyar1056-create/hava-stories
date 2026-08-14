@@ -2,8 +2,7 @@
   "folders": {
     "mar": [],
     "شب یکم": [
-      "حکایت نخست",
-      "جام جهان بین"
+      "حکایت نخست"
     ]
   },
   "stories": {
@@ -16,22 +15,6 @@
         "stories/حکایت نخست/1f5a664b7c4a42469766b4ebc8cabe9d.jpg",
         "stories/حکایت نخست/0e5e1a0411f54cd193a24297368618b7.jpg",
         "stories/حکایت نخست/ab5052b53c59466298315be15af4bfb0.jpg"
-      ],
-      "folder": "شب یکم"
-    },
-    "جام جهان بین": {
-      "pages": [
-        "stories/جام جهان بین/246e1507b1334f4596476f2fc975c24f.jpg",
-        "stories/جام جهان بین/219e4b0608504771b01b19f787ea64c4.jpg",
-        "stories/جام جهان بین/a266b73813334f848572dd833a9b7e6b.jpg",
-        "stories/جام جهان بین/ecd59e17d06942249885b3f8434d0315.jpg",
-        "stories/جام جهان بین/68c32e35f86d461ea2dee77792256681.jpg",
-        "stories/جام جهان بین/4d5dc151d34647afa8cb56ecc0b12965.jpg",
-        "stories/جام جهان بین/bd7edbb509fb4066a6a5e173d4f9b0a3.jpg",
-        "stories/جام جهان بین/2e1ce34d6d36446ab854ee486a90a207.jpg",
-        "stories/جام جهان بین/a65ab9d33ba24e708554a59facd3016a.jpg",
-        "stories/جام جهان بین/f78589d1f5064590a0bb6efb8487620c.jpg",
-        "stories/جام جهان بین/3989d26e17f24a92b2bd3cfe964d0eca.jpg"
       ],
       "folder": "شب یکم"
     }
