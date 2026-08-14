@@ -1,22 +1,7 @@
 {
   "folders": {
     "mar": [],
-    "شب یکم": [
-      "حکایت نخست"
-    ]
+    "شب یکم": []
   },
-  "stories": {
-    "حکایت نخست": {
-      "pages": [
-        "stories/حکایت نخست/eb0f66fd42e84a6096b2cc72a0a788e6.jpg",
-        "stories/حکایت نخست/0c6c84ed5e094d979f0bba6edf034abc.jpg",
-        "stories/حکایت نخست/11dd97625c674345ac7ecd6598e36eb1.jpg",
-        "stories/حکایت نخست/266a28573b714cf78b4cd59818656751.jpg",
-        "stories/حکایت نخست/1f5a664b7c4a42469766b4ebc8cabe9d.jpg",
-        "stories/حکایت نخست/0e5e1a0411f54cd193a24297368618b7.jpg",
-        "stories/حکایت نخست/ab5052b53c59466298315be15af4bfb0.jpg"
-      ],
-      "folder": "شب یکم"
-    }
-  }
+  "stories": {}
 }
